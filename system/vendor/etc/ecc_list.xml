@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/*
+ * Copyright 2015 Meizu Telecom Equipment Co., Ltd.
+ * All rights reserved.
+ *
+ * Filename      : ecc_list_intl.xml
+ * Versin Number : 2.0
+ * Description   : Ecc List for international
+ * Auther        : lixuan@meizu.com
+ * Date          : 2015-11-11
+ * History       : (ID,     Date,       Author,     Description)
+ */
+-->
+<EccTable>
+    <!--
+        The attribute definition for tag EccEntry:
+        - Ecc: the emergnecy number
+        - Category: the service category
+        - Condition: there are following values:
+            - 0: ecc only when no sim
+            - 1: ecc always
+            - 2: MMI will show ecc but send to nw as normal call
+    -->
+    <!--China-->
+    <EccEntry Ecc="110" Category="0" Condition="2" CountryISO="460"/>
+    <EccEntry Ecc="119" Category="0" Condition="2" CountryISO="460"/>
+    <EccEntry Ecc="120" Category="0" Condition="2" CountryISO="460"/>
+    <EccEntry Ecc="122" Category="0" Condition="2" CountryISO="460"/>
+    <EccEntry Ecc="112" Category="0" Condition="1" CountryISO="460"/>
+    <EccEntry Ecc="911" Category="0" Condition="1" CountryISO="460"/>
+    <EccEntry Ecc="000" Category="0" Condition="1" CountryISO="460"/>
+    <EccEntry Ecc="08" Category="0" Condition="1" CountryISO="460"/>
+    <EccEntry Ecc="118" Category="0" Condition="1" CountryISO="460"/>
+    <EccEntry Ecc="999" Category="0" Condition="1" CountryISO="460"/>
+    <!--Hong Kong-->
+    <EccEntry Ecc="999" Category="0" Condition="2" CountryISO="454"/>
+    <EccEntry Ecc="112" Category="0" Condition="2" CountryISO="454"/>
+    <!--Macao-->
+    <EccEntry Ecc="999" Category="0" Condition="2" CountryISO="455"/>
+    <!--Taiwan-->
+    <EccEntry Ecc="110" Category="0" Condition="2" CountryISO="466"/>
+    <EccEntry Ecc="119" Category="0" Condition="2" CountryISO="466"/>
+    <!--Philippines-->
+    <EccEntry Ecc="117" Category="0" Condition="2" CountryISO="515"/>
+    <EccEntry Ecc="911" Category="0" Condition="2" CountryISO="515"/>
+    <EccEntry Ecc="112" Category="0" Condition="2" CountryISO="515"/>
+    <EccEntry Ecc="143" Category="0" Condition="2" CountryISO="515"/>
+    <!--Thailand-->
+    <EccEntry Ecc="191" Category="0" Condition="2" CountryISO="520"/>
+    <EccEntry Ecc="199" Category="0" Condition="2" CountryISO="520"/>
+    <EccEntry Ecc="1646" Category="0" Condition="2" CountryISO="520"/>
+    <!--Myanmar-->
+    <EccEntry Ecc="191" Category="0" Condition="2" CountryISO="414"/>
+    <EccEntry Ecc="192" Category="0" Condition="2" CountryISO="414"/>
+    <EccEntry Ecc="199" Category="0" Condition="2" CountryISO="414"/>
+    <EccEntry Ecc="112" Category="0" Condition="2" CountryISO="414"/>
+    <!--Vietnam-->
+    <EccEntry Ecc="113" Category="0" Condition="2" CountryISO="452"/>
+    <EccEntry Ecc="114" Category="0" Condition="2" CountryISO="452"/>
+    <EccEntry Ecc="115" Category="0" Condition="2" CountryISO="452"/>
+    <!--Brunei-->
+    <EccEntry Ecc="991" Category="0" Condition="2" CountryISO="528"/>
+    <EccEntry Ecc="993" Category="0" Condition="2" CountryISO="528"/>
+    <EccEntry Ecc="995" Category="0" Condition="2" CountryISO="528"/>
+    <EccEntry Ecc="998" Category="0" Condition="2" CountryISO="528"/>
+    <!--Malaysia-->
+    <EccEntry Ecc="112" Category="0" Condition="2" CountryISO="502"/>
+    <EccEntry Ecc="999" Category="0" Condition="2" CountryISO="502"/>
+    <!--Indonesia-->
+    <EccEntry Ecc="110" Category="0" Condition="2" CountryISO="510"/>
+    <EccEntry Ecc="112" Category="0" Condition="2" CountryISO="510"/>
+    <EccEntry Ecc="113" Category="0" Condition="2" CountryISO="510"/>
+    <EccEntry Ecc="115" Category="0" Condition="2" CountryISO="510"/>
+    <EccEntry Ecc="118" Category="0" Condition="2" CountryISO="510"/>
+    <EccEntry Ecc="119" Category="0" Condition="2" CountryISO="510"/>
+    <EccEntry Ecc="108" Category="0" Condition="2" CountryISO="510"/>
+    <EccEntry Ecc="123" Category="0" Condition="2" CountryISO="510"/>
+    <EccEntry Ecc="129" Category="0" Condition="2" CountryISO="510"/>
+    <!--India-->
+    <EccEntry Ecc="100" Category="0" Condition="2" CountryISO="404"/>
+    <EccEntry Ecc="181" Category="0" Condition="2" CountryISO="404"/>
+    <EccEntry Ecc="108" Category="0" Condition="2" CountryISO="404"/>
+    <EccEntry Ecc="102" Category="0" Condition="2" CountryISO="404"/>
+    <EccEntry Ecc="101" Category="0" Condition="2" CountryISO="404"/>
+    <EccEntry Ecc="1097" Category="0" Condition="2" CountryISO="404"/>
+    <EccEntry Ecc="1512" Category="0" Condition="2" CountryISO="404"/>
+    <EccEntry Ecc="112" Category="0" Condition="2" CountryISO="404"/>
+    <EccEntry Ecc="911" Category="0" Condition="2" CountryISO="404"/>
+    <EccEntry Ecc="100" Category="0" Condition="2" CountryISO="405"/>
+    <EccEntry Ecc="181" Category="0" Condition="2" CountryISO="405"/>
+    <EccEntry Ecc="108" Category="0" Condition="2" CountryISO="405"/>
+    <EccEntry Ecc="102" Category="0" Condition="2" CountryISO="405"/>
+    <EccEntry Ecc="101" Category="0" Condition="2" CountryISO="405"/>
+    <EccEntry Ecc="1097" Category="0" Condition="2" CountryISO="405"/>
+    <EccEntry Ecc="1512" Category="0" Condition="2" CountryISO="405"/>
+    <EccEntry Ecc="112" Category="0" Condition="2" CountryISO="405"/>
+    <EccEntry Ecc="911" Category="0" Condition="2" CountryISO="405"/>
+    <!--Israel-->
+    <EccEntry Ecc="100" Category="0" Condition="2" CountryISO="425"/>
+    <EccEntry Ecc="911" Category="0" Condition="2" CountryISO="425"/>
+    <EccEntry Ecc="112" Category="0" Condition="2" CountryISO="425"/>
+    <EccEntry Ecc="101" Category="0" Condition="2" CountryISO="425"/>
+    <EccEntry Ecc="102" Category="0" Condition="2" CountryISO="425"/>
+    <EccEntry Ecc="103" Category="0" Condition="2" CountryISO="425"/>
+    <EccEntry Ecc="104" Category="0" Condition="2" CountryISO="425"/>
+    <EccEntry Ecc="1221" Category="0" Condition="2" CountryISO="425"/>
+    <!--尼泊尔-->
+    <EccEntry Ecc="100" Category="0" Condition="2" CountryISO="429"/>
+    <!--斯里兰卡-->
+    <EccEntry Ecc="112" Category="0" Condition="2" CountryISO="413"/>
+    <EccEntry Ecc="118" Category="0" Condition="2" CountryISO="413"/>
+    <EccEntry Ecc="119" Category="0" Condition="2" CountryISO="413"/>
+    <!--新西兰-->
+    <EccEntry Ecc="111" Category="0" Condition="2" CountryISO="530"/>
+    <!--新加坡-->
+    <EccEntry Ecc="999" Category="0" Condition="2" CountryISO="525"/>
+    <EccEntry Ecc="995" Category="0" Condition="2" CountryISO="525"/>
+    <!--伊朗-->
+    <EccEntry Ecc="110" Category="0" Condition="2" CountryISO="432"/>
+    <EccEntry Ecc="112" Category="0" Condition="2" CountryISO="432"/>
+    <EccEntry Ecc="113" Category="0" Condition="2" CountryISO="432"/>
+    <EccEntry Ecc="115" Category="0" Condition="2" CountryISO="432"/>
+    <EccEntry Ecc="20117" Category="0" Condition="2" CountryISO="432"/>
+    <EccEntry Ecc="118" Category="0" Condition="2" CountryISO="432"/>
+    <EccEntry Ecc="20119" Category="0" Condition="2" CountryISO="432"/>
+    <EccEntry Ecc="122" Category="0" Condition="2" CountryISO="432"/>
+    <EccEntry Ecc="123" Category="0" Condition="2" CountryISO="432"/>
+    <EccEntry Ecc="124" Category="0" Condition="2" CountryISO="432"/>
+    <EccEntry Ecc="125" Category="0" Condition="2" CountryISO="432"/>
+    <EccEntry Ecc="129" Category="0" Condition="2" CountryISO="432"/>
+    <EccEntry Ecc="133" Category="0" Condition="2" CountryISO="432"/>
+    <EccEntry Ecc="134" Category="0" Condition="2" CountryISO="432"/>
+    <EccEntry Ecc="136" Category="0" Condition="2" CountryISO="432"/>
+    <EccEntry Ecc="137" Category="0" Condition="2" CountryISO="432"/>
+    <EccEntry Ecc="138" Category="0" Condition="2" CountryISO="432"/>
+    <EccEntry Ecc="139" Category="0" Condition="2" CountryISO="432"/>
+    <EccEntry Ecc="140" Category="0" Condition="2" CountryISO="432"/>
+    <EccEntry Ecc="2090" Category="0" Condition="2" CountryISO="432"/>
+    <EccEntry Ecc="143" Category="0" Condition="2" CountryISO="432"/>
+    <EccEntry Ecc="144" Category="0" Condition="2" CountryISO="432"/>
+    <EccEntry Ecc="148" Category="0" Condition="2" CountryISO="432"/>
+    <EccEntry Ecc="149" Category="0" Condition="2" CountryISO="432"/>
+    <EccEntry Ecc="142" Category="0" Condition="2" CountryISO="432"/>
+    <EccEntry Ecc="191" Category="0" Condition="2" CountryISO="432"/>
+    <EccEntry Ecc="192" Category="0" Condition="2" CountryISO="432"/>
+    <EccEntry Ecc="193" Category="0" Condition="2" CountryISO="432"/>
+    <EccEntry Ecc="194" Category="0" Condition="2" CountryISO="432"/>
+    <EccEntry Ecc="195" Category="0" Condition="2" CountryISO="432"/>
+    <EccEntry Ecc="197" Category="0" Condition="2" CountryISO="432"/>
+    <EccEntry Ecc="199" Category="0" Condition="2" CountryISO="432"/>
+    <EccEntry Ecc="9990" Category="0" Condition="2" CountryISO="432"/>
+    <EccEntry Ecc="1818" Category="0" Condition="2" CountryISO="432"/>
+    <EccEntry Ecc="64501" Category="0" Condition="2" CountryISO="432"/>
+    <!--沙特阿拉伯-->
+    <EccEntry Ecc="999" Category="0" Condition="2" CountryISO="420"/>
+    <EccEntry Ecc="997" Category="0" Condition="2" CountryISO="420"/>
+    <EccEntry Ecc="998" Category="0" Condition="2" CountryISO="420"/>
+    <EccEntry Ecc="911" Category="0" Condition="2" CountryISO="420"/>
+    <EccEntry Ecc="112" Category="0" Condition="2" CountryISO="420"/>
+    <EccEntry Ecc="08" Category="0" Condition="2" CountryISO="420"/>
+    <EccEntry Ecc="993" Category="0" Condition="2" CountryISO="420"/>
+    <!--阿联酋-->
+    <EccEntry Ecc="999" Category="0" Condition="2" CountryISO="412"/>
+    <EccEntry Ecc="112" Category="0" Condition="2" CountryISO="412"/>
+    <EccEntry Ecc="998" Category="0" Condition="2" CountryISO="412"/>
+    <EccEntry Ecc="997" Category="0" Condition="2" CountryISO="412"/>
+    <!--Kazakhstan-->
+    <EccEntry Ecc="112" Category="0" Condition="2" CountryISO="401"/>
+    <EccEntry Ecc="101" Category="0" Condition="2" CountryISO="401"/>
+    <EccEntry Ecc="102" Category="0" Condition="2" CountryISO="401"/>
+    <EccEntry Ecc="103" Category="0" Condition="2" CountryISO="401"/>
+    <!--Latvia-->
+    <EccEntry Ecc="112" Category="0" Condition="2" CountryISO="247"/>
+    <!--Lithuania-->
+    <EccEntry Ecc="112" Category="0" Condition="2" CountryISO="246"/>
+    <!--Russia-->
+    <EccEntry Ecc="112" Category="0" Condition="2" CountryISO="250"/>
+    <EccEntry Ecc="101" Category="0" Condition="2" CountryISO="250"/>
+    <EccEntry Ecc="102" Category="0" Condition="2" CountryISO="250"/>
+    <EccEntry Ecc="103" Category="0" Condition="2" CountryISO="250"/>
+    <EccEntry Ecc="104" Category="0" Condition="2" CountryISO="250"/>
+    <EccEntry Ecc="010" Category="0" Condition="2" CountryISO="250"/>
+    <EccEntry Ecc="020" Category="0" Condition="2" CountryISO="250"/>
+    <EccEntry Ecc="030" Category="0" Condition="2" CountryISO="250"/>
+    <EccEntry Ecc="040" Category="0" Condition="2" CountryISO="250"/>
+    <EccEntry Ecc="901" Category="0" Condition="2" CountryISO="250"/>
+    <EccEntry Ecc="902" Category="0" Condition="2" CountryISO="250"/>
+    <EccEntry Ecc="903" Category="0" Condition="2" CountryISO="250"/>
+    <EccEntry Ecc="904" Category="0" Condition="2" CountryISO="250"/>
+    <!--Ukraine-->
+    <EccEntry Ecc="112" Category="0" Condition="2" CountryISO="255"/>
+    <EccEntry Ecc="101" Category="0" Condition="2" CountryISO="255"/>
+    <EccEntry Ecc="102" Category="0" Condition="2" CountryISO="255"/>
+    <EccEntry Ecc="103" Category="0" Condition="2" CountryISO="255"/>
+    <EccEntry Ecc="104" Category="0" Condition="2" CountryISO="255"/>
+    <!--Poland-->
+    <!-- //FLYME:zhanghao@BugFixFlyme[802061] {@ -->
+    <EccEntry Ecc="112" Category="0" Condition="1" CountryISO="260"/>
+    <!--　//@}　-->
+    <!--Czech Republic-->
+    <EccEntry Ecc="112" Category="0" Condition="2" CountryISO="230"/>
+    <!--Slovakia-->
+    <EccEntry Ecc="112" Category="0" Condition="2" CountryISO="231"/>
+    <!--Hungary-->
+    <EccEntry Ecc="112" Category="0" Condition="2" CountryISO="216"/>
+    <!--Germany-->
+    <EccEntry Ecc="112" Category="0" Condition="2" CountryISO="262"/>
+    <!--Netherlands-->
+    <EccEntry Ecc="112" Category="0" Condition="2" CountryISO="204"/>
+    <!--France-->
+    <EccEntry Ecc="112" Category="0" Condition="2" CountryISO="208"/>
+    <EccEntry Ecc="15" Category="0" Condition="2" CountryISO="208"/>
+    <EccEntry Ecc="17" Category="0" Condition="2" CountryISO="208"/>
+    <EccEntry Ecc="18" Category="0" Condition="2" CountryISO="208"/>
+    <EccEntry Ecc="114" Category="0" Condition="2" CountryISO="208"/>
+    <EccEntry Ecc="115" Category="0" Condition="2" CountryISO="208"/>
+    <EccEntry Ecc="116000" Category="0" Condition="2" CountryISO="208"/>
+    <EccEntry Ecc="119" Category="0" Condition="2" CountryISO="208"/>
+    <EccEntry Ecc="191" Category="0" Condition="2" CountryISO="208"/>
+    <EccEntry Ecc="196" Category="0" Condition="2" CountryISO="208"/>
+    <EccEntry Ecc="197" Category="0" Condition="2" CountryISO="208"/>
+    <!--Romania-->
+    <EccEntry Ecc="112" Category="0" Condition="2" CountryISO="226"/>
+    <!--Bulgaria-->
+    <EccEntry Ecc="112" Category="0" Condition="2" CountryISO="284"/>
+    <!--Serbia and Montenegro-->
+    <EccEntry Ecc="112" Category="0" Condition="2" CountryISO="220"/>
+    <EccEntry Ecc="192" Category="0" Condition="2" CountryISO="220"/>
+    <EccEntry Ecc="193" Category="0" Condition="2" CountryISO="220"/>
+    <EccEntry Ecc="194" Category="0" Condition="2" CountryISO="220"/>
+    <!--Greece-->
+    <EccEntry Ecc="112" Category="0" Condition="2" CountryISO="202"/>
+    <!--Slovenia-->
+    <EccEntry Ecc="113" Category="0" Condition="2" CountryISO="293"/>
+    <EccEntry Ecc="112" Category="0" Condition="2" CountryISO="293"/>
+    <!--波斯尼亚-->
+    <EccEntry Ecc="122" Category="0" Condition="2" CountryISO="218"/>
+    <EccEntry Ecc="123" Category="0" Condition="2" CountryISO="218"/>
+    <EccEntry Ecc="112" Category="0" Condition="2" CountryISO="218"/>
+    <!--Croatia-->
+    <EccEntry Ecc="112" Category="0" Condition="2" CountryISO="219"/>
+    <EccEntry Ecc="192" Category="0" Condition="2" CountryISO="219"/>
+    <EccEntry Ecc="193" Category="0" Condition="2" CountryISO="219"/>
+    <EccEntry Ecc="194" Category="0" Condition="2" CountryISO="219"/>
+    <EccEntry Ecc="195" Category="0" Condition="2" CountryISO="219"/>
+    <!--Italy-->
+    <EccEntry Ecc="112" Category="0" Condition="2" CountryISO="222"/>
+    <EccEntry Ecc="113" Category="0" Condition="2" CountryISO="222"/>
+    <EccEntry Ecc="115" Category="0" Condition="2" CountryISO="222"/>
+    <EccEntry Ecc="118" Category="0" Condition="2" CountryISO="222"/>
+    <!--Spain-->
+    <EccEntry Ecc="112" Category="0" Condition="1" CountryISO="214"/>
+    <EccEntry Ecc="061" Category="0" Condition="2" CountryISO="214"/>
+    <EccEntry Ecc="091" Category="0" Condition="2" CountryISO="214"/>
+    <EccEntry Ecc="062" Category="0" Condition="2" CountryISO="214"/>
+    <EccEntry Ecc="080" Category="0" Condition="2" CountryISO="214"/>
+    <EccEntry Ecc="092" Category="0" Condition="2" CountryISO="214"/>
+    <!--Portugal-->
+    <EccEntry Ecc="112" Category="0" Condition="2" CountryISO="268"/>
+    <!--土耳其-->
+    <EccEntry Ecc="112" Category="0" Condition="2" CountryISO="286"/>
+    <EccEntry Ecc="155" Category="0" Condition="2" CountryISO="286"/>
+    <EccEntry Ecc="110" Category="0" Condition="2" CountryISO="286"/>
+    <!--比利时  Belgium-->
+    <EccEntry Ecc="112" Category="0" Condition="2" CountryISO="206"/>
+    <EccEntry Ecc="100" Category="0" Condition="2" CountryISO="206"/>
+    <EccEntry Ecc="105" Category="0" Condition="2" CountryISO="206"/>
+    <EccEntry Ecc="101" Category="0" Condition="2" CountryISO="206"/>
+    <EccEntry Ecc="070245245" Category="0" Condition="2" CountryISO="206"/>
+    <EccEntry Ecc="070344344" Category="0" Condition="2" CountryISO="206"/>
+    <!--Brazil-->
+    <EccEntry Ecc="190" Category="0" Condition="2" CountryISO="724"/>
+    <EccEntry Ecc="192" Category="0" Condition="2" CountryISO="724"/>
+    <EccEntry Ecc="193" Category="0" Condition="2" CountryISO="724"/>
+    <EccEntry Ecc="199" Category="0" Condition="2" CountryISO="724"/>
+    <!--Pakistan-->
+    <EccEntry Ecc="15" Category="0" Condition="2" CountryISO="410"/>
+    <EccEntry Ecc="16" Category="0" Condition="2" CountryISO="410"/>
+    <EccEntry Ecc="115" Category="0" Condition="2" CountryISO="410"/>
+    <!--秘鲁-->
+    <EccEntry Ecc="105" Category="0" Condition="2" CountryISO="716"/>
+    <EccEntry Ecc="110" Category="0" Condition="2" CountryISO="716"/>
+    <EccEntry Ecc="115" Category="0" Condition="2" CountryISO="716"/>
+    <EccEntry Ecc="116" Category="0" Condition="2" CountryISO="716"/>
+    <EccEntry Ecc="117" Category="0" Condition="2" CountryISO="716"/>
+    <!--委内瑞拉-->
+    <EccEntry Ecc="171" Category="0" Condition="2" CountryISO="734"/>
+    <!--埃及-->
+    <EccEntry Ecc="122" Category="0" Condition="2" CountryISO="602"/>
+    <EccEntry Ecc="123" Category="0" Condition="2" CountryISO="602"/>
+    <EccEntry Ecc="180" Category="0" Condition="2" CountryISO="602"/>
+    <!--阿尔及利亚-->
+    <EccEntry Ecc="14" Category="0" Condition="2" CountryISO="603"/>
+    <EccEntry Ecc="17" Category="0" Condition="2" CountryISO="603"/>
+    <EccEntry Ecc="112" Category="0" Condition="2" CountryISO="603"/>
+    <EccEntry Ecc="1055" Category="0" Condition="2" CountryISO="603"/>
+    <EccEntry Ecc="1548" Category="0" Condition="2" CountryISO="603"/>
+    <!--肯尼亚-->
+    <EccEntry Ecc="109" Category="0" Condition="2" CountryISO="639"/>
+    <EccEntry Ecc="110" Category="0" Condition="2" CountryISO="639"/>
+    <EccEntry Ecc="112" Category="0" Condition="2" CountryISO="639"/>
+    <EccEntry Ecc="999" Category="0" Condition="2" CountryISO="639"/>
+    <EccEntry Ecc="116" Category="0" Condition="2" CountryISO="639"/>
+    <EccEntry Ecc="1190" Category="0" Condition="2" CountryISO="639"/>
+    <EccEntry Ecc="1195" Category="0" Condition="2" CountryISO="639"/>
+    <!--阿尔巴利亚-->
+    <EccEntry Ecc="17" Category="0" Condition="2" CountryISO="276"/>
+    <EccEntry Ecc="18" Category="0" Condition="2" CountryISO="276"/>
+    <EccEntry Ecc="19" Category="0" Condition="2" CountryISO="276"/>
+    <!--白俄罗斯-->
+    <EccEntry Ecc="112" Category="0" Condition="2" CountryISO="257"/>
+</EccTable>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MEIZU_BADGE identifier="com.meizu.badge.silk" versionCode="100" versionName=""  badgeVersion="1" mzos="6">
+    <info locale="" name="丝绸" author="" description="" date="2017-05-16" />
+    <info locale="en_US" name="Flowing silk" author="" description="" date="" />
+    <info locale="ar_IL" name="حرير طائر" author="" description="" date="" />
+    <info locale="in_ID" name="Kain sutera" author="" description="" date="" />
+    <info locale="fr_FR" name="Soie fluide" author="" description="" date="" />
+    <info locale="es_ES" name="Seda" author="" description="" date="" />
+    <info locale="pt_BR" name="Seda" author="" description="" date="" />
+    <info locale="zh_TW" name="絲綢" author="" description="" date="" />
+    <info locale="zh_HK" name="絲綢" author="" description="" date="" />
+    <info locale="my_MM" name="လြင့္ပုိးသား" author="" description="" date="" />
+    <info locale="vi_VN" name="Lụa mềm" author="" description="" date="" />
+    <info locale="hi_IN" name="उड़ता रेशम" author="" description="" date="" />
+    <info locale="uk_UA" name="Шовк" author="" description="" date="" />
+    <info locale="iw_IL" name="משי זורם" author="" description="" date="" />
+    <info locale="fa_IR" name="پارچه موجدار" author="" description="" date="" />
+    <info locale="it_IT" name="Seta flutt." author="" description="" date="" />
+    <info locale="ms_MY" name="Sutera mengalir" author="" description="" date="" />
+    <info locale="kk_KZ" name="Жібек" author="" description="" date="" />
+    <info locale="ru_RU" name="Шелк" author="" description="" date="" />
+    <info locale="ur_PK" name="لہراتی سلک" author="" description="" date="" />
+</MEIZU_BADGE>

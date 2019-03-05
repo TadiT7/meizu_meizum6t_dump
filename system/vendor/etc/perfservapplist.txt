@@ -1,0 +1,19 @@
+CMD_SET_CPU_CORE_MIN com.imangi.templerun2 3
+CMD_SET_CLUSTER_CPU_CORE_MIN com.tencent.tmgp.sgame 0 2
+CMD_SET_CLUSTER_CPU_FREQ_MIN com.tencent.tmgp.sgame 0 1950000
+CMD_SET_CLUSTER_CPU_CORE_MIN com.tencent.tmgp.sgame 1 2
+CMD_SET_CLUSTER_CPU_FREQ_MIN com.tencent.tmgp.sgame 1 1950000
+CMD_SET_HICA_ENABLE com.tencent.tmgp.sgame 0
+CMD_SET_CPU_UP_THRESHOLD com.tencent.tmgp.sgame 60
+CMD_SET_CPU_DOWN_THRESHOLD com.tencent.tmgp.sgame 50
+CMD_SET_THREAD_NAME com.tencent.tmgp.sgame UnityMain
+CMD_SET_THREAD_AFFINITY com.tencent.tmgp.sgame 240
+CMD_SET_CLUSTER_CPU_CORE_MIN com.tencent.tmgp.sgamece 0 2
+CMD_SET_CLUSTER_CPU_FREQ_MIN com.tencent.tmgp.sgamece 0 1950000
+CMD_SET_CLUSTER_CPU_CORE_MIN com.tencent.tmgp.sgamece 1 2
+CMD_SET_CLUSTER_CPU_FREQ_MIN com.tencent.tmgp.sgamece 1 1950000
+CMD_SET_HICA_ENABLE com.tencent.tmgp.sgamece 0
+CMD_SET_CPU_UP_THRESHOLD com.tencent.tmgp.sgamece 60
+CMD_SET_CPU_DOWN_THRESHOLD com.tencent.tmgp.sgamece 50
+CMD_SET_THREAD_NAME com.tencent.tmgp.sgamece UnityMain
+CMD_SET_THREAD_AFFINITY com.tencent.tmgp.sgamece 240

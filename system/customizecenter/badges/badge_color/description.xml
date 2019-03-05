@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MEIZU_BADGE identifier="com.meizu.badge.ink" versionCode="100" versionName=""  badgeVersion="1" mzos="6">
+    <info locale="" name="墨彩" author="" description="" date="2017-05-16" />
+    <info locale="en_US" name="Color blast" author="" description="" date="" />
+    <info locale="ar_IL" name="خليط ألوان" author="" description="" date="" />
+    <info locale="in_ID" name="Bom warna" author="" description="" date="" />
+    <info locale="fr_FR" name="ÉclatColoré" author="" description="" date="" />
+    <info locale="es_ES" name="Colores" author="" description="" date="" />
+    <info locale="pt_BR" name="Bola de cor" author="" description="" date="" />
+    <info locale="zh_TW" name="潑墨" author="" description="" date="" />
+    <info locale="zh_HK" name="幻彩" author="" description="" date="" />
+    <info locale="my_MM" name="အေရာင္ေဝွ႔" author="" description="" date="" />
+    <info locale="vi_VN" name="Sắc màu" author="" description="" date="" />
+    <info locale="hi_IN" name="रंगीला धुआँ" author="" description="" date="" />
+    <info locale="uk_UA" name="Вибух" author="" description="" date="" />
+    <info locale="iw_IL" name="התפרצות צבע" author="" description="" date="" />
+    <info locale="fa_IR" name="انفجار رنگ" author="" description="" date="" />
+    <info locale="it_IT" name="Esp. colori" author="" description="" date="" />
+    <info locale="ms_MY" name="Letupan warna" author="" description="" date="" />
+    <info locale="kk_KZ" name="Түсті" author="" description="" date="" />
+    <info locale="ru_RU" name="Взрыв" author="" description="" date="" />
+    <info locale="ur_PK" name="کلر بلاسٹ" author="" description="" date="" />
+</MEIZU_BADGE>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<MEIZU_BADGE identifier="com.meizu.badge.default" versionCode="100" versionName=""  badgeVersion="1" mzos="6">
+    <info locale="" name="默认" author="" description="" date="2017-05-16" />
+    <info locale="en_US" name="Default" author="" description="" date="" />
+    <info locale="ar_IL" name="افتراضي" author="" description="" date="" />
+    <info locale="in_ID" name="Default" author="" description="" date="" />
+    <info locale="fr_FR" name="Par défaut" author="" description="" date="" />
+    <info locale="es_ES" name="Predeterminado" author="" description="" date="" />
+    <info locale="pt_BR" name="Predefinição" author="" description="" date="" />
+    <info locale="zh_TW" name="預設" author="" description="" date="" />
+    <info locale="zh_HK" name="預設" author="" description="" date="" />
+    <info locale="my_MM" name="မူလသတ္မွတ္" author="" description="" date="" />
+    <info locale="vi_VN" name="Mặc định" author="" description="" date="" />
+    <info locale="hi_IN" name="डिफ़ॉल्ट" author="" description="" date="" />
+    <info locale="uk_UA" name="За замовчуванням" author="" description="" date="" />
+    <info locale="iw_IL" name="ברירת מחדל" author="" description="" date="" />
+    <info locale="fa_IR" name="پیش‌فرض" author="" description="" date="" />
+    <info locale="it_IT" name="Default" author="" description="" date="" />
+    <info locale="ms_MY" name="Lalai" author="" description="" date="" />
+    <info locale="kk_KZ" name="Әдепкі" author="" description="" date="" />
+    <info locale="ru_RU" name="по умолчанию" author="" description="" date="" />
+    <info locale="ur_PK" name="طے شدہ" author="" description="" date="" />
+</MEIZU_BADGE>

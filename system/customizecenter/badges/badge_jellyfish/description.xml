@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MEIZU_BADGE identifier="com.meizu.badge." versionCode="100" versionName=""  badgeVersion="1" mzos="6">
+    <info locale="" name="浮游" author="" description="" date="2017-05-16" />
+    <info locale="en_US" name="Jellyfish" author="" description="" date="" />
+    <info locale="ar_IL" name="قنديل بحر" author="" description="" date="" />
+    <info locale="in_ID" name="Ubur-ubur" author="" description="" date="" />
+    <info locale="fr_FR" name="Méduse" author="" description="" date="" />
+    <info locale="es_ES" name="Medusa" author="" description="" date="" />
+    <info locale="pt_BR" name="Medusa" author="" description="" date="" />
+    <info locale="zh_TW" name="水母" author="" description="" date="" />
+    <info locale="zh_HK" name="浮游" author="" description="" date="" />
+    <info locale="my_MM" name="ဂ်ယ္လီငါး" author="" description="" date="" />
+    <info locale="vi_VN" name="Con sứa" author="" description="" date="" />
+    <info locale="hi_IN" name="जेलिफ़िश" author="" description="" date="" />
+    <info locale="uk_UA" name="Медуза" author="" description="" date="" />
+    <info locale="iw_IL" name="מדוזה" author="" description="" date="" />
+    <info locale="fa_IR" name="عروس دریا" author="" description="" date="" />
+    <info locale="it_IT" name="Medusa" author="" description="" date="" />
+    <info locale="ms_MY" name="Ubur-ubur" author="" description="" date="" />
+    <info locale="kk_KZ" name="Теңіз" author="" description="" date="" />
+    <info locale="ru_RU" name="Медуза" author="" description="" date="" />
+    <info locale="ur_PK" name="جیلی فش" author="" description="" date="" />
+</MEIZU_BADGE>

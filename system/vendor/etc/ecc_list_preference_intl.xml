@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/*
+ * Copyright 2017 Meizu Telecom Equipment Co., Ltd.
+ * All rights reserved.
+ *
+ * Filename      : ecc_list_preference_intl.xml
+ * Versin Number : 1.0
+ * Description   : Ecc List preference for international
+ * Auther        : zhouyahui@meizu.com
+ * Date          : 2017-08-30
+ * History       : (ID,     Date,       Author,     Description)
+ */
+-->
+<EccPrefTable>
+    <!--
+        The attribute definition for tag EccPref:
+        - MCC: country identify
+        - GsmOnly: dial ecc over GSM only
+        - CdmaOnly: dial ecc over CDMA only
+        - GsmPref: dial ecc over GSM prefer
+        - CdmaPref: dial ecc over CDMA prefer
+
+        The xml defines ecc rules for intl version, which needs to observe local operator traditions.
+    -->
+    <EccPref MCC="460" GsmOnly="112,000,08,118" CdmaOnly="" GsmPref="911,999" CdmaPref="110,119,120,122" />
+</EccPrefTable>

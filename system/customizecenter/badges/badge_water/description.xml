@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<MEIZU_BADGE identifier="com.meizu.badge.water" versionCode="100" versionName=""  badgeVersion="1" mzos="6">
+    <info locale="" name="水韵" author="" description="" date="2017-05-16" />
+    <info locale="en_US" name="Water ring" author="" description="" date="" />
+    <info locale="ar_IL" name="حلقة مائية" author="" description="" date="" />
+    <info locale="in_ID" name="Cincin air" author="" description="" date="" />
+    <info locale="fr_FR" name="Bague Eau" author="" description="" date="" />
+    <info locale="es_ES" name="Agua" author="" description="" date="" />
+    <info locale="pt_BR" name="Água" author="" description="" date="" />
+    <info locale="zh_TW" name="水韻" author="" description="" date="" />
+    <info locale="zh_HK" name="水韻" author="" description="" date="" />
+    <info locale="my_MM" name="ေရလက္စြပ္" author="" description="" date="" />
+    <info locale="vi_VN" name="Nhẫn nước" author="" description="" date="" />
+    <info locale="hi_IN" name="पानी चक्र" author="" description="" date="" />
+    <info locale="uk_UA" name="Вода" author="" description="" date="" />
+    <info locale="iw_IL" name="טבעת מים" author="" description="" date="" />
+    <info locale="fa_IR" name="حلقه آبی" author="" description="" date="" />
+    <info locale="it_IT" name="An. acqua" author="" description="" date="" />
+    <info locale="ms_MY" name="Gegelang air" author="" description="" date="" />
+    <info locale="kk_KZ" name="Су" author="" description="" date="" />
+    <info locale="ru_RU" name="Вода" author="" description="" date="" />
+    <info locale="ur_PK" name="واٹر رنگ" author="" description="" date="" />
+</MEIZU_BADGE>

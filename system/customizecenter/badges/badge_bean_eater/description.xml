@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<MEIZU_BADGE identifier="com.meizu.badge.pixelmen" versionCode="100" versionName=""  badgeVersion="1" mzos="6">
+    <info locale="" name="像素人" author="" description="" date="2017-05-16" />
+    <info locale="en_US" name="Pixels" author="" description="" date="" />
+</MEIZU_BADGE>

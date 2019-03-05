@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<MEIZU_BADGE identifier="com.meizu.badge.hummingbird" versionCode="100" versionName=""  badgeVersion="1" mzos="6">
+    <info locale="" name="雀跃" author="" description="" date="2017-05-16" />
+    <info locale="en_US" name="Hummingbird" author="" description="" date="" />
+    <info locale="ar_IL" name="طائر مغرد" author="" description="" date="" />
+    <info locale="in_ID" name="Kolibri" author="" description="" date="" />
+    <info locale="fr_FR" name="Colibri" author="" description="" date="" />
+    <info locale="es_ES" name="Colibrí" author="" description="" date="" />
+    <info locale="pt_BR" name="Beija-flor" author="" description="" date="" />
+    <info locale="zh_TW" name="蜂鳥" author="" description="" date="" />
+    <info locale="zh_HK" name="蜂鳥" author="" description="" date="" />
+    <info locale="my_MM" name="ငွက္ပိတုန္း" author="" description="" date="" />
+    <info locale="vi_VN" name="Chim ruồi" author="" description="" date="" />
+    <info locale="hi_IN" name="हमिंगबर्ड" author="" description="" date="" />
+    <info locale="uk_UA" name="Колібрі" author="" description="" date="" />
+    <info locale="iw_IL" name="יונק דבש" author="" description="" date="" />
+    <info locale="fa_IR" name="مرغ مگس" author="" description="" date="" />
+    <info locale="it_IT" name="Colibrì" author="" description="" date="" />
+    <info locale="ms_MY" name="Burung madu" author="" description="" date="" />
+    <info locale="kk_KZ" name="Құс" author="" description="" date="" />
+    <info locale="ru_RU" name="Колибри" author="" description="" date="" />
+    <info locale="ur_PK" name="شکر خورا" author="" description="" date="" />
+</MEIZU_BADGE>

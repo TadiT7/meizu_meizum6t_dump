@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<MEIZU_BADGE identifier="com.meizu.badge.circle" versionCode="100" versionName=""  badgeVersion="1" mzos="6">
+    <info locale="" name="多彩气泡" author="" description="" date="2017-05-16" />
+    <info locale="en_US" name="Bubbles" author="" description="" date="" />
+</MEIZU_BADGE>
